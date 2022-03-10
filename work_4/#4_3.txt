@@ -1,0 +1,7 @@
+Trofimova:10
+Smirnov:10
+Popov:7
+Ivanov:8
+Antonova:5
+Shevelev:6
+Postov:4

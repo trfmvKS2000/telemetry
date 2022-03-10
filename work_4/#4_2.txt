@@ -1,0 +1,6 @@
+last name first name
+phone number
+date of birth
+place of residence
+place of work / study
+additional information

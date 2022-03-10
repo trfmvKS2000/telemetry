@@ -1,0 +1,5 @@
+geography: 10(L) 50(PR)
+chemistry: 25(L) 30(Lab) 10(PR)
+literature: 10(L) 10(PR)
+history: 10(L) 15(PR)
+physics: 40(L) 30(Lab)
